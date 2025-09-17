@@ -2,15 +2,17 @@
 Road Safety Data Analysis Dashboard
 Project Overview
 
-Road safety is a growing concern, with thousands of accidents happening every year due to a mix of human, environmental, and infrastructural factors. To better understand these patterns, this project presents an interactive Power BI dashboard built on real accident data.
+Interactive Power BI dashboard analyzing road accident data
 
-The dataset includes information such as accident dates, severity, weather conditions, and locations. By turning raw data into clear visual insights, the dashboard helps users quickly spot accident trends, analyze severity levels, and explore how external factors like weather and location impact road safety.
+Dataset includes accident date, severity, weather conditions, and location
+
+Helps identify accident trends, severity distribution, and environmental factors influencing accidents
 
 Objectives
 
-Explore and analyze road accident datasets.
+Explore and analyze road accident datasets
 
-Track key KPIs, including:
+Track KPIs such as:
 
 Total number of accidents
 
@@ -20,7 +22,7 @@ Severity distribution
 
 Weather impact on accidents
 
-Provide a visually rich and interactive dashboard that supports better decision-making for policymakers, traffic authorities, and the public.
+Provide a visually appealing, interactive dashboard for better decision-making
 
 Tools & Technologies
 
@@ -28,34 +30,34 @@ Power BI → Dashboard creation & visualization
 
 DAX → Calculations & measures for KPIs
 
-Data Transformation → Cleaning, shaping, and preparing data for analysis
+Data Transformation → Cleaning and shaping data for analysis
 
-Key Insights Delivered
+Key Insights
 
-📊 Trends over time → Accident frequency across months and years
+Accident frequency trends across months and years
 
-⚠️ Severity breakdown → Identifying high-risk categories
+Severity breakdown to identify high-risk categories
 
-🌦️ Weather impact → Understanding how conditions affect accidents
+Impact of weather conditions on accident occurrence
 
-📍 Location-based analysis → Pinpointing hotspots for targeted safety measures
+Location-based analysis for targeted safety improvements
 
 How to Use
 
-Download the .pbix file from this repository.
+Download the .pbix file from this repository
 
-Open it in Power BI Desktop.
+Open it in Power BI Desktop
 
-Refresh the dataset (if needed) to view the latest visuals.
+Refresh the dataset if necessary to view updated visuals
 
-Interact with slicers, filters, and visuals to explore the data in detail.
+Interact with slicers, filters, and visuals to explore the data
 
-👉 Dataset Link
+📂 Dataset Link: https://docs.google.com/spreadsheets/d/1yTI0506e7lZglRl7fsG2_TL0fHcd-G6D/edit?usp=sharing&ouid=105555167878999269221&rtpof=true&sd=true
 
 Future Improvements
 
-🔗 Integration with real-time accident data APIs
+Integration with real-time accident data APIs
 
-🤖 Predictive analytics for forecasting accident trends
+Predictive analytics to forecast accident trends
 
-🔍 Drill-through pages for deeper, location-wise insights
+Adding drill-through pages for deeper analysis
